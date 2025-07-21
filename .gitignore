@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.
 
 # Pytest cache and test artifacts
 .pytest_cache/
