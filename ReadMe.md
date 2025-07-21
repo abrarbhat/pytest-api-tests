@@ -96,7 +96,7 @@ MIT License
 
 ---
 Built with ❤️ by Abrar - Test Automation Architect | SDET | Automation | Quality Engineering
-
+https://www.linkedin.com/in/abrar-bhat/
 pytest -v tests/
 run single test using 
 pytest -v tests/test_departments.py
