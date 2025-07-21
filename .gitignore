@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.
+
+# Pytest cache and test artifacts
+.pytest_cache/
+.cache/
+coverage.xml
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment/config files
+.env
+.env.*
+*.local
+config.yaml  # If it has secrets, otherwise remove this line
+
+# Dependency folders
+.venv/
+venv/
+pip-wheel-metadata/
+
+# Reports
+allure-report/
+reports/
+*.html
+*.xml
+*.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter and IPython files (if using notebooks)
+.ipynb_checkpoints/
+*.ipynb
+
+__pycache__/
+pytest_cache/
+.env
+.vscode/
+.idea/
+.DS_Store
