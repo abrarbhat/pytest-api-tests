@@ -80,14 +80,6 @@ report:
 lint:
 	flake8 .
 
-
-## 🔍 Next Steps
-
-- ✅ Add test coverage reports (pytest-cov)
-- ✅ Integrate with GitHub Actions for CI/CD
-- ✅ Add contract testing via Pact
-- ✅ Setup pre-commit hooks for code quality
-
 ## 🤝 Contributions
 PRs and feedback are welcome!
 
